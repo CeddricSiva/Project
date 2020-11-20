@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nvp.data.service.mapper.Srcsdtlod5MapperTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in com.nvp.data.service.mapper.Srcsdtlod5MapperTest

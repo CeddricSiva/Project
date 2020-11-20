@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nvp.data.service.service.impl.SalesCodeDataServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.369 s - in com.nvp.data.service.service.impl.SalesCodeDataServiceImplTest

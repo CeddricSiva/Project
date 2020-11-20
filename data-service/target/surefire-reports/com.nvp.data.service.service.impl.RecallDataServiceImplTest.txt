@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nvp.data.service.service.impl.RecallDataServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.491 s - in com.nvp.data.service.service.impl.RecallDataServiceImplTest
